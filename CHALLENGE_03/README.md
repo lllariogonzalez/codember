@@ -39,6 +39,7 @@ submit bqamidgewtbuz
 
 1. [JavaScript](./index.js)
 2. [Python](./main.py)
+3. [Java](./Main.java)
 
 > submit bgamidqewtbus
 
