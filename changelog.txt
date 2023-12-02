@@ -1,0 +1,14 @@
+v. 0.5.0
+Último reto. Ahora puedes 'play tetris'. Y no te olvides de revisar tu correo.
+
+v. 0.4.0
+¡Un hacker se ha metido en nuestro sistema de archivos! ¿Has visto el comando nuevo? ¡Una vaca que habla!
+
+v. 0.3.0
+¡Hey! Necesito tu ayuda con el nuevo reto. También alguien sospechoso ha enviado un email. Ten cuidado, y no 'hagas un giro de barril' con el nuevo comando 'do'.
+
+v. 0.2.0
+¡Nuevo reto y nuevo email recibido! ¿Y qué tal si dices la palabra mágica más famosa del mundo? ¡Y prueba a lanzar confetti!
+
+v. 0.1.0
+Primera versión. El primer reto está en CHALLENGE_01.txt. ¿Has revisado el mail usando el comando adecuado?
